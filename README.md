@@ -7,7 +7,7 @@
 
 ### Roles and Responsibilities:
 
-#### 1. ** Muhammad Faizal Khan  - Technical and Operational Management**
+#### 1. **Muhammad Faizal Khan  - Technical and Operational Management**
 - **Website Creation and Management**:
   - Design and develop the e-commerce website using a suitable platform (e.g., Shopify, WordPress with WooCommerce, Wix).
   - Ensure the website is user-friendly, visually appealing, and mobile-responsive.
