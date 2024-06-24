@@ -1,7 +1,7 @@
 ### Work Distribution and Organizational Plan for IITthreads
 
 #### Team Members:
-1. **Faizal Khan **
+1. **Faizal Khan**
 2. **Faiz Imdad**
 3. **Sunny Meena**
 
