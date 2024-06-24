@@ -81,6 +81,42 @@
    - Handle any necessary business registrations, licenses, and permits.
    - Manage contracts with suppliers and service providers.
 
+
+### Workload Distribution
+
+#### 1. **Muhammad Faizal Khan - Technical and Operational Management**
+- **Website Creation and Management**: 25%
+- **Product Management**: 15%
+- **Payment Management**: 10%
+- **Technical Support**: 10%
+
+**Total**: 60%
+
+#### 2. **Faiz Imdad - Design and Production Management**
+- **Design Creation**: 20%
+- **Quality Assurance**: 10%
+- **Production Oversight**: 10%
+- **Logistics Coordination**: 5%
+
+**Total**: 45%
+
+#### 3. **Sunny Meena - Marketing and Distribution Management**
+- **Marketing Strategy**: 20%
+- **Content Creation**: 10%
+- **Sales and Promotions**: 10%
+- **Distribution and Fulfillment**: 10%
+
+**Total**: 50%
+
+### Adjusted Workload Distribution
+Considering the overlapping responsibilities and ensuring a balanced workload, the final adjusted workload distribution is:
+
+- **Muhammad Faizal Khan**: 50%
+- **Faiz Imdad**: 30%
+- **Sunny Meena**: 20%
+
+This distribution ensures that each member's equity reflects their contribution to the overall workload, promoting fairness and motivation.
+
 ### Equity Distribution Based on Workload:
 Given the roles and responsibilities outlined, an equitable distribution of equity can be proposed as follows:
 
