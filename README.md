@@ -1,13 +1,13 @@
 ### Work Distribution and Organizational Plan for IITthreads
 
 #### Team Members:
-1. **Faizal Khan**
+1. **Muhammad Faizal Khan**
 2. **Faiz Imdad**
 3. **Sunny Meena**
 
 ### Roles and Responsibilities:
 
-#### 1. **Faizal Khan  - Technical and Operational Management**
+#### 1. ** Muhammad Faizal Khan  - Technical and Operational Management**
 - **Website Creation and Management**:
   - Design and develop the e-commerce website using a suitable platform (e.g., Shopify, WordPress with WooCommerce, Wix).
   - Ensure the website is user-friendly, visually appealing, and mobile-responsive.
@@ -84,7 +84,7 @@
 ### Equity Distribution Based on Workload:
 Given the roles and responsibilities outlined, an equitable distribution of equity can be proposed as follows:
 
-- **Faizal Khan **: 40%
+- **Muhammad Faizal Khan**: 40%
   - Responsible for the technical backbone of the business, ensuring the website runs smoothly and managing online transactions.
 
 - **Faiz Imdad**: 35%
