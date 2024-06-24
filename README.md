@@ -1,4 +1,4 @@
-### Work Distribution and Organizational Plan for IITJ Essentials
+### Work Distribution and Organizational Plan for IITthreads
 
 #### Team Members:
 1. **Faizal Khan (You)**
