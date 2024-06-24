@@ -1,13 +1,13 @@
 ### Work Distribution and Organizational Plan for IITthreads
 
 #### Team Members:
-1. **Faizal Khan (You)**
+1. **Faizal Khan **
 2. **Faiz Imdad**
 3. **Sunny Meena**
 
 ### Roles and Responsibilities:
 
-#### 1. **Faizal Khan (You) - Technical and Operational Management**
+#### 1. **Faizal Khan  - Technical and Operational Management**
 - **Website Creation and Management**:
   - Design and develop the e-commerce website using a suitable platform (e.g., Shopify, WordPress with WooCommerce, Wix).
   - Ensure the website is user-friendly, visually appealing, and mobile-responsive.
@@ -84,7 +84,7 @@
 ### Equity Distribution Based on Workload:
 Given the roles and responsibilities outlined, an equitable distribution of equity can be proposed as follows:
 
-- **Faizal Khan (You)**: 40%
+- **Faizal Khan **: 40%
   - Responsible for the technical backbone of the business, ensuring the website runs smoothly and managing online transactions.
 
 - **Faiz Imdad**: 35%
@@ -94,4 +94,4 @@ Given the roles and responsibilities outlined, an equitable distribution of equi
   - Responsible for marketing, sales, and distribution, ensuring products reach customers and managing customer satisfaction.
 
 ### Summary
-This organizational plan ensures that all aspects of the business are covered, from website management and product design to marketing and distribution. It also provides a fair equity distribution based on the workload and responsibilities of each team member. This structure will help IITJ Essentials run smoothly and effectively as you launch and grow your e-commerce venture.
+This organizational plan ensures that all aspects of the business are covered, from website management and product design to marketing and distribution. It also provides a fair equity distribution based on the workload and responsibilities of each team member. This structure will help IITJ Essentials run smoothly and effectively as  launch and grow r e-commerce venture.
